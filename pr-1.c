@@ -2,13 +2,13 @@
 #include<conio.h>
 main()
 {
-    int f,c;
+    int fahrenheit,celcius;
     
     printf("enter any count :");
-    scanf("%d",&c);
+    scanf("%d",&celcius);
     
-    f = (c*9/5)+32;
+    fahrenheit = (celcius*9/5)+32;
     
-    printf("ans = %d",f);
+    printf("ans = %d",fahrenheit);
 }
 
