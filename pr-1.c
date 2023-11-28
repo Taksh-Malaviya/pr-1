@@ -4,7 +4,7 @@ main()
 {
     int f,c;
     
-    printf("enetr any count :");
+    printf("enter any count :");
     scanf("%d",&c);
     
     f = (c*9/5)+32;
